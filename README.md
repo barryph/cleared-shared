@@ -34,7 +34,7 @@ cd cleared-shared
 # install deps
 npm install
 # create a npm link of this project
-cd npm link
+npm link
 # cd into the portal repo
 cd ../cleared-patient-portal
 # use the previously created cleared-shared npm link
